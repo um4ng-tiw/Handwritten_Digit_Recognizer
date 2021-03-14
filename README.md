@@ -1,4 +1,4 @@
-# Handwritten_Digit_Recognizer
+# Handwritten Digit Recognizer
 
 
 ### About the project
