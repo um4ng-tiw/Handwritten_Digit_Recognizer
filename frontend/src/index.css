@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f7f7f7;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.container {
+  height: fit-content;
+  width: fit-content;
+}
+.draw-area {
+  height: 50vh;
+  width: 50vh;
+  margin: 0 auto;
+  margin-top: 5vh;
+  margin-left: 15vh;
+  border: 8px solid white;
+  overflow: hidden;
+  background-color: black;
+  -webkit-box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+  -moz-box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+  box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+}
+
+.clear-button-container {
+  text-align: center;
+  position: absolute;
+  margin: 1rem;
+  margin-left: 47%;
+  flex-direction: column;
+}
+
+.draw-area-text {
+  text-align: center;
+  margin-left: 20%;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.app-child {
+  display: flex;
+  flex-direction: row;
+}
+
+.chart-container {
+  margin: 0 auto;
+  margin-top: 5vh;
+  height: 50vh;
+  width: 100vh;
+  border: 8px solid white;
+  background-color: white;
+  -webkit-box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+  -moz-box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+  box-shadow: 7px 7px 12px 0px rgba(50, 50, 50, 0.69);
+}
+
+.Footer {
+  margin-top: 15vh;
+  text-align: center;
+}
