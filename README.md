@@ -57,7 +57,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## Contact
-![instagram](https://www.instagram.com/oxy.moronguy/) ![linkedin](https://www.linkedin.com/in/umang-tiwari-bb9781193/)
+[![instagram-shield]][instagram]  [![linkedin-shield]][linkedin]
 
 
 
@@ -69,5 +69,7 @@ Contributions are what make the open source community such an amazing place to b
 [python-shield]:https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge
 [keras-shield]:https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=for-the-badge
 [demo]: ./demo.gif
-[instagram]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
-[linkedin]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
+[instagram-shield]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
+[linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
+[instagram]:https://www.instagram.com/oxy.moronguy/
